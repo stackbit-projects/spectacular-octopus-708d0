@@ -17,11 +17,6 @@
             "style": "link"
         },
         {
-            "title": "About",
-            "url": "/about",
-            "style": "link"
-        },
-        {
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
